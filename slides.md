@@ -1,12 +1,11 @@
----
+<!--
 marp: true
 theme: custom
 paginate: true
-footer: "Product Documentation | 24f1000447@ds.study.iitm.ac.in"
----
+-->
 
-<!-- theme: custom -->
 <style>
+/* @theme custom */
 section {
   background-color: #fdfdfd;
   color: #222;
@@ -91,5 +90,6 @@ This slide uses **scoped custom CSS** to adjust background and borders.
 - Documentation in **Marp Markdown** is portable & maintainable.
 - Easy export to **slides, PDFs, and docs**.
 - Contact: **24f1000447@ds.study.iitm.ac.in**
+
 
 ---
