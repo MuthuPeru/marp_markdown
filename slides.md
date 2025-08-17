@@ -2,6 +2,7 @@
 marp: true
 theme: custom
 paginate: true
+footer: "Product Documentation | 24f1000447@ds.study.iitm.ac.in"
 -->
 
 <style>
@@ -61,7 +62,7 @@ This slide demonstrates how to use a background image.
 We can include equations using KaTeX / MathJax:
 
 $$
-T(n) = O(n \log n)
+T(n) = O(n \\log n)
 $$
 
 Used for algorithms like **Merge Sort** and **Quick Sort** (average case).
@@ -90,6 +91,5 @@ This slide uses **scoped custom CSS** to adjust background and borders.
 - Documentation in **Marp Markdown** is portable & maintainable.
 - Easy export to **slides, PDFs, and docs**.
 - Contact: **24f1000447@ds.study.iitm.ac.in**
-
 
 ---
